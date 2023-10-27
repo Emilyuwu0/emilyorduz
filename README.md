@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, Soy Emily!</h1>
-<h3 align="center">Desarrolladora frontend de Colombia: D</h3>
+<h3 align="center">Desarrolladora Frontend 👩‍💻</h3>
 
 - 🔭 Actualmente estoy trabajando en **AntPack**
 
 - 💜 Discord [undefined.name](undefined.name)
-
-- 💬 Pregúntame sobre **react,css entre otros**
 
 - 📫 Correo **tbarrera679@gmail.com**
 
